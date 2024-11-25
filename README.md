@@ -1,10 +1,22 @@
-# Fractional Calculus Project
+# Introduction to Fractional Calculus
 
-**Collaborators**:  
-Mr. Tatipamul Jayesh Ravimohan,  
-Mr. Bharale Shriniwas Suresh,  
-Mr. Bussa Mohan Ashok,  
-Mr. Bulla Shridhar Shivanand  
+## A Project Report
+
+**Presented by**:  
+- Mr. Tatipamul Jayesh Ravimohan (Roll No: 7376)  
+- Mr. Bharale Shriniwas Suresh (Roll No: 7375)  
+- Mr. Bussa Mohan Ashok (Roll No: 7378)  
+- Mr. Bulla Shridhar Shivanand (Roll No: 7360)  
+
+**Class**: M.Sc. Part-II  
+
+**Under the Guidance of**:  
+Shri. Anand R. Reshimkar  
+
+**Submitted to**:  
+Department of Mathematics,  
+D. B. F. Dayanand College of Arts and Science, Solapur  
+P. A. H. Solapur University, Solapur  
 
 ---
 
